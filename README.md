@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tin Huynh
 - 👀 I’m interested in learning Computer Science
-- 🌱 I’m currently learning Angular Framework
+- 🌱 I’m currently working on Angular and Jasmine Framework.
 - 📫 You can reach me at LinkedIn and email
 
 <!---
